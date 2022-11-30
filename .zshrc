@@ -1,3 +1,9 @@
+# Exports
 export PATH="/usr/local/sbin:$PATH"
 export GPG_TTY=$(tty)
-eval "$(starship init zsh)"
+
+# Aliases
+alias dotfiles='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
+
+# Start
+eval "$(starship init zsh)" #ZSH
