@@ -3,11 +3,12 @@
 Run `rice.sh` to install all programs/configs.
 
 ## Themes/Fonts
-- ...
+- [Sauce Code Pro Nerd Font](https://www.nerdfonts.com/)
 
 ## Programs
 - zsh (Shell)
 - [Starship](https://starship.rs) (Shell Prompt)
+- [Kitty](https://github.com/kovidgoyal/kitty) (Terminal)
 
 ## Scripts
 - [neofetch](https://github.com/dylanaraps/neofetch) (System Fetch)

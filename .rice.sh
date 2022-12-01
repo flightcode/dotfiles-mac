@@ -1,7 +1,11 @@
 #!/bin/bash
 
+# Install Fonts
+brew tap homebrew/cask-fonts
+brew install --cask font-sauce-code-pro-nerd-font
+
 # Install Programs
-brew install starship
+brew install starship kitty
 
 # Install Scripts
 brew install neofetch lolcat
