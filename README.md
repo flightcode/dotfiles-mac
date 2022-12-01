@@ -11,6 +11,7 @@ Run `rice.sh` to install all programs/configs.
 - [Kitty](https://github.com/kovidgoyal/kitty) (Terminal)
 - [SpotifyTUI](https://github.com/Rigellute/spotify-tui) (Spotify Terminal Application)
 - [Spotifyd](https://github.com/Spotifyd/spotifyd) (Spotify Daemon)
+- [HTOP](https://htop.dev/) (Resource Manager)
 
 ## Scripts
 - [neofetch](https://github.com/dylanaraps/neofetch) (System Fetch)

@@ -5,7 +5,7 @@ brew tap homebrew/cask-fonts
 brew install --cask font-sauce-code-pro-nerd-font
 
 # Install Programs
-brew install starship kitty spotify-tui spotifyd
+brew install starship kitty spotify-tui spotifyd htop
 
 ## Enable Spotifyd as service at startup
 brew services start spotifyd
