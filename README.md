@@ -6,7 +6,7 @@ Run `rice.sh` to install all programs/configs.
 - [Sauce Code Pro Nerd Font](https://www.nerdfonts.com/)
 
 ## Programs
-- zsh (Shell)
+- [zsh](https://www.zsh.org/) (Shell)
 - [Starship](https://starship.rs) (Shell Prompt)
 - [Kitty](https://github.com/kovidgoyal/kitty) (Terminal)
 - [SpotifyTUI](https://github.com/Rigellute/spotify-tui) (Spotify Terminal Application)
