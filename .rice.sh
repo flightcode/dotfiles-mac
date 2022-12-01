@@ -10,6 +10,11 @@ brew install starship kitty
 # Install Scripts
 brew install neofetch lolcat
 
+## Install pywal
+brew install imagemagick
+pip3 install --user https://github.com/dylanaraps/pywal/archive/master.zip
+pip3 install --user colorz
+
 # Install Applications
 brew install --cask librewolf bitwarden protonvpn signal discord insomnia calibre obsidian vscodium
 

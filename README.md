@@ -12,7 +12,9 @@ Run `rice.sh` to install all programs/configs.
 
 ## Scripts
 - [neofetch](https://github.com/dylanaraps/neofetch) (System Fetch)
-- [lolcat](https://github.com/busyloop/lolcat) (Rainbow pipe for shell)
+- [lolcat](https://github.com/busyloop/lolcat) (Rainbow Pipe for Shell)
+- [pywal](https://github.com/dylanaraps/pywal) (Colour Manager)
+- [colorz](https://github.com/metakirby5/colorz) (Colour Scheme Generator)
 
 ## Applications
 ### Base
@@ -34,6 +36,5 @@ Run `rice.sh` to install all programs/configs.
 
 
 ## To-Do
-- [pywal](https://github.com/dylanaraps/pywal) (Colour Manager)
 - [ranger](https://github.com/ranger/ranger) (File Manager)
 - Doom EMACS/EMACS/NeoVIM?
