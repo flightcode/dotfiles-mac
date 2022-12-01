@@ -10,5 +10,3 @@ alias wal='wal --backend colorz'
 
 # Start
 eval "$(starship init zsh)" #ZSH
-
-wal -R
