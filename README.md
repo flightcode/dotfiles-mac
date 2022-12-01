@@ -9,6 +9,7 @@ Run `rice.sh` to install all programs/configs.
 - zsh (Shell)
 - [Starship](https://starship.rs) (Shell Prompt)
 - [Kitty](https://github.com/kovidgoyal/kitty) (Terminal)
+- [SpotifyTUI](https://github.com/Rigellute/spotify-tui) (Spotify Terminal Application)
 
 ## Scripts
 - [neofetch](https://github.com/dylanaraps/neofetch) (System Fetch)
