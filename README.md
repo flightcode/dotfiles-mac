@@ -9,6 +9,7 @@ Run `rice.sh` to install all programs/configs.
 - [zsh](https://www.zsh.org/) (Shell)
 - [Starship](https://starship.rs) (Shell Prompt)
 - [Kitty](https://github.com/kovidgoyal/kitty) (Terminal)
+- [Ranger](https://ranger.github.io/) (File Browser)
 - [SpotifyTUI](https://github.com/Rigellute/spotify-tui) (Spotify Terminal Application)
 - [Spotifyd](https://github.com/Spotifyd/spotifyd) (Spotify Daemon)
 - [HTOP](https://htop.dev/) (Resource Manager)
@@ -18,6 +19,7 @@ Run `rice.sh` to install all programs/configs.
 - [lolcat](https://github.com/busyloop/lolcat) (Rainbow Pipe for Shell)
 - [pywal](https://github.com/dylanaraps/pywal) (Colour Manager)
 - [colorz](https://github.com/metakirby5/colorz) (Colour Scheme Generator)
+- [Pillow](https://python-pillow.org/) (Imaging for Ranger)
 
 ## Applications
 ### Base
@@ -39,5 +41,4 @@ Run `rice.sh` to install all programs/configs.
 
 
 ## To-Do
-- [ranger](https://github.com/ranger/ranger) (File Manager)
 - Doom EMACS/EMACS/NeoVIM?

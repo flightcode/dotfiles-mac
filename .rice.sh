@@ -5,16 +5,15 @@ brew tap homebrew/cask-fonts
 brew install --cask font-sauce-code-pro-nerd-font
 
 # Install Programs
-brew install starship kitty spotify-tui spotifyd htop
+brew install starship kitty ranger spotify-tui spotifyd htop
 
 ## Enable Spotifyd as service at startup
 brew services start spotifyd
 
 # Install Scripts
-brew install neofetch lolcat
+brew install neofetch lolcat pillow
 
 ## Install pywal
-brew install imagemagick
 pip3 install --user https://github.com/dylanaraps/pywal/archive/master.zip
 pip3 install --user colorz
 
