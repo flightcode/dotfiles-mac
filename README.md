@@ -13,6 +13,7 @@ Run `rice.sh` to install all programs/configs.
 - [Ranger](https://ranger.github.io/) (File Browser)
 - [SpotifyTUI](https://github.com/Rigellute/spotify-tui) (Spotify Terminal Application)
 - [Spotifyd](https://github.com/Spotifyd/spotifyd) (Spotify Daemon)
+- [GitUI](https://github.com/extrawurst/gitui) (Git Terminal Application)
 
 ## Scripts
 - [neofetch](https://github.com/dylanaraps/neofetch) (System Fetch)
