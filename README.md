@@ -9,10 +9,10 @@ Run `rice.sh` to install all programs/configs.
 - [zsh](https://www.zsh.org/) (Shell)
 - [Starship](https://starship.rs) (Shell Prompt)
 - [Kitty](https://github.com/kovidgoyal/kitty) (Terminal)
+- [BTOP](https://github.com/aristocratos/btop) (Resource Manager)
 - [Ranger](https://ranger.github.io/) (File Browser)
 - [SpotifyTUI](https://github.com/Rigellute/spotify-tui) (Spotify Terminal Application)
 - [Spotifyd](https://github.com/Spotifyd/spotifyd) (Spotify Daemon)
-- [HTOP](https://htop.dev/) (Resource Manager)
 
 ## Scripts
 - [neofetch](https://github.com/dylanaraps/neofetch) (System Fetch)
