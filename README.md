@@ -14,6 +14,7 @@ Run `rice.sh` to install all programs/configs.
 - [SpotifyTUI](https://github.com/Rigellute/spotify-tui) (Spotify Terminal Application)
 - [Spotifyd](https://github.com/Spotifyd/spotifyd) (Spotify Daemon)
 - [GitUI](https://github.com/extrawurst/gitui) (Git Terminal Application)
+- [NeoVim](https://neovim.io) (Text/Code Editor)
 
 ## Scripts
 - [neofetch](https://github.com/dylanaraps/neofetch) (System Fetch)
@@ -39,7 +40,3 @@ Run `rice.sh` to install all programs/configs.
 ### Other
 - [Obsidian](https://obsidian.md/) (Personal Knowledge Management)
 - [Calibre](https://calibre-ebook.com/) (E-Book Management)
-
-
-## To-Do
-- Doom EMACS/EMACS/NeoVIM?

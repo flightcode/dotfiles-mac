@@ -5,7 +5,7 @@ brew tap homebrew/cask-fonts
 brew install --cask font-sauce-code-pro-nerd-font
 
 # Install Programs
-brew install starship kitty ranger btop spotify-tui spotifyd gitui
+brew install starship kitty ranger btop spotify-tui spotifyd gitui neovim
 
 ## Enable Spotifyd as service at startup
 brew services start spotifyd
@@ -49,3 +49,7 @@ codium --install-extension yzhang.markdown-all-in-one
 
 ## Update VSCode settings
 curl -fsSL https://gist.githubusercontent.com/flightcode/d1cc24a053f6d8dcd2849545ddae6e7a/raw/vscode-settings.json > ~/Library/Application\ Support/VSCodium/User/settings.json
+
+## Install NeoVim Package Manager
+sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.vim --create-dirs \
+       https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
