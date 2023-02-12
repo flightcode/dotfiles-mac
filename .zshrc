@@ -9,4 +9,4 @@ alias wal='wal --backend colorz'
 alias spt='spt -c .config/spotify-tui/config.yml -t 100'
 
 # Start
-eval "$(starship init zsh)" #ZSH
+eval "$(starship init zsh)"
